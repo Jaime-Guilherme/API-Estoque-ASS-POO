@@ -49,16 +49,7 @@ Desenvolver uma API em ASP.NET Core que aplique os conceitos de Análise e Progr
 Acesse o Swagger:
 http://localhost:5000/swagger
 
-Endpoints Principais
-Método, Endpoint, Descrição
-POST, /api/Itens, Cadastrar novo item
-GET, /api/Itens, Listar todos os itens
-GET, /api/Itens/{codigo}, Buscar item por código
-POST, /api/Itens/{codigo}/entrada, Entrada de estoque
-POST, /api/Itens/{codigo}/saida, Saída de estoque
-
 Conceitos de Análise Orientada a Objetos Aplicados
-
 Encapsulamento forte (private set + métodos privados de validação)
 Rich Domain Model na classe Item
 Separação de responsabilidades (Controller, Service, Repository)
@@ -67,8 +58,3 @@ Validações centralizadas na entidade de domínio
 Autor
 Jaime Guilherme Caceda
 Disciplina: Análise Orientada a Objetos
-
-
-dotnet restore
-dotnet ef database update
-dotnet run
