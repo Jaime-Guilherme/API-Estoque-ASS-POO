@@ -67,18 +67,9 @@ A API estará disponível em: https://localhost:5001 ou http://localhost:5000
 Acesse o Swagger em:
 https://localhost:5001/swagger
 
-Endpoints Principais
-
-Método,Endpoint,Descrição
-GET,/api/itens,Listar todos os itens
-GET,/api/itens/{codigo},Buscar item por código
-POST,/api/itens,Cadastrar novo item
-PUT,/api/itens/{codigo},Atualizar item
-DELETE,/api/itens/{codigo},Remover item
-
 Autor
 
-Nome: Jaime Guilherme
+Nome: Jaime Guilherme Caceda
 Disciplina: Programação Orientada a Objetos
 Data de Entrega: Maio/2026
 
