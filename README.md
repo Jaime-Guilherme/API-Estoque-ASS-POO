@@ -55,7 +55,6 @@ O sistema permite o controle completo de itens do estoque com operações CRUD, 
 
 ### Passos
 
-```bash
 # 1. Clone o repositório
 git clone https://github.com/Jaime-Guilherme/API-Estoque-ASS-POO.git
 
